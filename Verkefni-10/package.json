@@ -30,6 +30,6 @@
     "stylelint-config-sass-guidelines": "^12.1.0",
     "stylelint-config-standard": "^36.0.1",
     "vite": "^5.4.10",
-    "vitest": "^2.1.4"
+    "vitest": "^2.1.9"
   }
 }
